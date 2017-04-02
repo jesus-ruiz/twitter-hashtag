@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HashtagApp</string>
+    <string name="twitter_key"> </string>
+    <string name="twitter_secret"> </string>
+    <string name="result_header_ok">Results for #%s:</string>
+    <string name="result_header_fail">Error: %s</string>
+</resources>
